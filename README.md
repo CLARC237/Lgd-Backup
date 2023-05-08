@@ -7,6 +7,7 @@ celà permet de rester serein surtout que discord a changé maintenant qu'il ya 
 
 - backup salons
 - backup rôles
+
 -backup messages
 - Et plus encore !
 
